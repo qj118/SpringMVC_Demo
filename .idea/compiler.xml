@@ -6,15 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="annotation" />
         <module name="hello_world" />
         <module name="params" />
-        <module name="annotation" />
+        <module name="response" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="annotation" target="13" />
       <module name="hello_world" target="13" />
       <module name="params" target="13" />
+      <module name="response" target="13" />
     </bytecodeTargetLevel>
   </component>
 </project>

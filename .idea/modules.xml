@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello_world/hello_world.iml" filepath="$PROJECT_DIR$/hello_world/hello_world.iml" />
       <module fileurl="file://$PROJECT_DIR$/params/params.iml" filepath="$PROJECT_DIR$/params/params.iml" />
+      <module fileurl="file://$PROJECT_DIR$/response/response.iml" filepath="$PROJECT_DIR$/response/response.iml" />
     </modules>
   </component>
 </project>

@@ -30,3 +30,11 @@ SpringMVC 边学边敲 [教学视频](https://www.bilibili.com/video/BV1mE411X7y
 - @CookieValue
 - @ModelAttribute
 - @SessionAttributes
+
+### response
+
+包含以下几个要点：
+1. controller 可以方法以 String，void，ModelAndView 为返回值；
+2. 转发与重定向关键字；
+3. @ResponseBody 响应 json 数据；
+4. ajax 异步请求的处理。
