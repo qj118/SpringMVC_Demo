@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../images-server" />
     <file type="web" url="file://$PROJECT_DIR$/annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/fileupload" />
     <file type="web" url="file://$PROJECT_DIR$/hello_world" />
+    <file type="web" url="file://$PROJECT_DIR$/images-server" />
     <file type="web" url="file://$PROJECT_DIR$/params" />
     <file type="web" url="file://$PROJECT_DIR$/response" />
   </component>
@@ -13,6 +16,8 @@
         <option value="$PROJECT_DIR$/params/pom.xml" />
         <option value="$PROJECT_DIR$/annotation/pom.xml" />
         <option value="$PROJECT_DIR$/response/pom.xml" />
+        <option value="$PROJECT_DIR$/fileupload/pom.xml" />
+        <option value="$PROJECT_DIR$/images-server/pom.xml" />
       </list>
     </option>
   </component>

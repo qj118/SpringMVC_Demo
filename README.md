@@ -38,3 +38,14 @@ SpringMVC 边学边敲 [教学视频](https://www.bilibili.com/video/BV1mE411X7y
 2. 转发与重定向关键字；
 3. @ResponseBody 响应 json 数据；
 4. ajax 异步请求的处理。
+
+### fileupload
+
+以以下三种方式实现文件上传：
+1. 传统方式；
+2. SpringMVC方式，即提供文件解析器；
+3. 跨服务器上传文件。
+
+### images-server
+
+模拟跨服务器上传文件的另一个服务器上运行的空 module。
