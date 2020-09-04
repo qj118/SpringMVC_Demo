@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringMVC_Demo.iml" filepath="$PROJECT_DIR$/.idea/SpringMVC_Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/fileupload/fileupload.iml" filepath="$PROJECT_DIR$/fileupload/fileupload.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello_world/hello_world.iml" filepath="$PROJECT_DIR$/hello_world/hello_world.iml" />
       <module fileurl="file://$PROJECT_DIR$/images-server/images-server.iml" filepath="$PROJECT_DIR$/images-server/images-server.iml" />

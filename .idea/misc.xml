@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/../images-server" />
     <file type="web" url="file://$PROJECT_DIR$/annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/exception" />
     <file type="web" url="file://$PROJECT_DIR$/fileupload" />
     <file type="web" url="file://$PROJECT_DIR$/hello_world" />
     <file type="web" url="file://$PROJECT_DIR$/images-server" />
@@ -18,6 +19,7 @@
         <option value="$PROJECT_DIR$/response/pom.xml" />
         <option value="$PROJECT_DIR$/fileupload/pom.xml" />
         <option value="$PROJECT_DIR$/images-server/pom.xml" />
+        <option value="$PROJECT_DIR$/exception/pom.xml" />
       </list>
     </option>
   </component>

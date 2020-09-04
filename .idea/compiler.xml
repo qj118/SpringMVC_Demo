@@ -7,15 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="annotation" />
+        <module name="exception" />
         <module name="fileupload" />
         <module name="hello_world" />
-        <module name="params" />
         <module name="response" />
+        <module name="params" />
         <module name="images-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="annotation" target="13" />
+      <module name="exception" target="13" />
       <module name="fileupload" target="13" />
       <module name="hello_world" target="13" />
       <module name="images-server" target="13" />

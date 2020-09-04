@@ -49,3 +49,7 @@ SpringMVC 边学边敲 [教学视频](https://www.bilibili.com/video/BV1mE411X7y
 ### images-server
 
 模拟跨服务器上传文件的另一个服务器上运行的空 module。
+
+### exception
+
+自定义异常处理器。
