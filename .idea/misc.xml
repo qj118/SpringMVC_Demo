@@ -7,6 +7,7 @@
     <file type="web" url="file://$PROJECT_DIR$/fileupload" />
     <file type="web" url="file://$PROJECT_DIR$/hello_world" />
     <file type="web" url="file://$PROJECT_DIR$/images-server" />
+    <file type="web" url="file://$PROJECT_DIR$/intercepter" />
     <file type="web" url="file://$PROJECT_DIR$/params" />
     <file type="web" url="file://$PROJECT_DIR$/response" />
   </component>
@@ -20,6 +21,7 @@
         <option value="$PROJECT_DIR$/fileupload/pom.xml" />
         <option value="$PROJECT_DIR$/images-server/pom.xml" />
         <option value="$PROJECT_DIR$/exception/pom.xml" />
+        <option value="$PROJECT_DIR$/intercepter/pom.xml" />
       </list>
     </option>
   </component>

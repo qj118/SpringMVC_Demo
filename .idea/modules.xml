@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/fileupload/fileupload.iml" filepath="$PROJECT_DIR$/fileupload/fileupload.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello_world/hello_world.iml" filepath="$PROJECT_DIR$/hello_world/hello_world.iml" />
       <module fileurl="file://$PROJECT_DIR$/images-server/images-server.iml" filepath="$PROJECT_DIR$/images-server/images-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intercepter/intercepter.iml" filepath="$PROJECT_DIR$/intercepter/intercepter.iml" />
       <module fileurl="file://$PROJECT_DIR$/params/params.iml" filepath="$PROJECT_DIR$/params/params.iml" />
       <module fileurl="file://$PROJECT_DIR$/response/response.iml" filepath="$PROJECT_DIR$/response/response.iml" />
     </modules>

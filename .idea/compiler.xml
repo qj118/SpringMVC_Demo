@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="annotation" />
         <module name="exception" />
+        <module name="intercepter" />
         <module name="fileupload" />
         <module name="hello_world" />
         <module name="response" />
@@ -22,6 +23,7 @@
       <module name="hello_world" target="13" />
       <module name="images-server" target="13" />
       <module name="images_server" target="1.7" />
+      <module name="intercepter" target="13" />
       <module name="params" target="13" />
       <module name="response" target="13" />
     </bytecodeTargetLevel>

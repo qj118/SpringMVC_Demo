@@ -53,3 +53,7 @@ SpringMVC 边学边敲 [教学视频](https://www.bilibili.com/video/BV1mE411X7y
 ### exception
 
 自定义异常处理器。
+
+### interceptor
+
+自定义 springmvc 拦截器。
